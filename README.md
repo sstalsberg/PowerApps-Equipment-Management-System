@@ -1,4 +1,5 @@
 # PowerApps Equipment Management System
+![ Alt text](EquipmentBookingUserApp.gif) / ! [](EquipmentBookingUserApp.gif)
 An intuitive and efficient equipment management solution tailored for educational institutes, non-profit organizations, schools, and other entities seeking a cost-effective approach to equipment handling.
 
 Reservation System (Mobile App):
