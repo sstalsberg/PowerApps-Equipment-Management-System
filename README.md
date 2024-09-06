@@ -1,5 +1,5 @@
 # PowerApps Equipment Management System
-<img src="EquipmentBookingUserApp.gif" width="100" height="100">
+<img src="EquipmentBookingUserApp.gif" width="480">
 ![](EquipmentBookingUserApp.gif)
 An intuitive and efficient equipment management solution tailored for educational institutes, non-profit organizations, schools, and other entities seeking a cost-effective approach to equipment handling.
 
